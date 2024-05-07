@@ -1,0 +1,9 @@
+.item {
+  padding: 5px;
+  border: 2px solid rgb(85, 47, 54);
+  border-radius: 2%;
+  display: flex;
+  gap: 80px;
+  align-items: center;
+  flex-wrap: wrap;
+}
